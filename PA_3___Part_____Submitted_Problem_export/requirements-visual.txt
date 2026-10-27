@@ -1,0 +1,5 @@
+# Optional Agent Lab only; test_local.py and agent.py need just the standard library.
+numpy>=1.24
+matplotlib>=3.7
+ipywidgets>=8.0
+notebook>=7.0

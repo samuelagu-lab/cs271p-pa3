@@ -1,0 +1,3 @@
+# PA 3D-s — Monte-Carlo Tree Search Agent
+# No third-party packages are needed: the agent, framework, and game are pure Python
+# standard library. (Python 3.8+.)
